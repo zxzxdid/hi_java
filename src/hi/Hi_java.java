@@ -6,6 +6,7 @@ public class Hi_java {
 		System.out.println("Hello");
 		System.out.println("성공~!");
 		
+		
 	}
 
 }
